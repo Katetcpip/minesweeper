@@ -1,5 +1,7 @@
 # minesweeper
 
+(ссылка-инструкция по установке - https://www.yocton.ru/phaser3/kak-sozdat-arkadnuyu-igru-s-pomoshyu-phaser-3)
+
 - установить Web Server for Chrome.
 
 - запустить его непосредственно из Chrome и загрузить папку своего проекта. 
